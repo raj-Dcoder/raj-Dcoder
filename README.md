@@ -45,13 +45,16 @@ Java solutions for Data Structures & Algorithms problems.
 [🔗 Repo](https://github.com/raj-Dcoder/DSA) | ![Java](https://img.shields.io/badge/DSA-Java-orange)
 
 ---
-
-## 📊 GitHub Stats
-![Rajveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=raj-Dcoder&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-Dcoder&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raj-Dcoder&theme=radical)
-
 ---
+| GitHub Stats | Streak Stats |
+|--------------|--------------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=raj-Dcoder&show_icons=true&theme=tokyonight&hide_border=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=raj-Dcoder&theme=tokyonight&hide_border=true) |
+
+| Top Languages | Trophies |
+|---------------|----------|
+| ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-Dcoder&layout=compact&theme=tokyonight&hide_border=true) | ![Trophies](https://github-profile-trophy.vercel.app/?username=raj-Dcoder&theme=tokyonight&no-frame=true&margin-w=15) |
+
+
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/rajveer-singh-rana)
