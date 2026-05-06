@@ -1,61 +1,159 @@
-# Hi there, I'm Rajveer Singh Rana 👋
+# Hey, I'm Rajveer Singh Rana 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=raj-Dcoder&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/raj-Dcoder?style=social)
-![GitHub stars](https://img.shields.io/github/stars/raj-Dcoder?style=social)
+<p align="left">
+  <a href="https://komarev.com/ghpvc/?username=raj-Dcoder">
+    <img src="https://komarev.com/ghpvc/?username=raj-Dcoder&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+  <a href="https://github.com/raj-Dcoder?tab=followers">
+    <img src="https://img.shields.io/github/followers/raj-Dcoder?label=Followers&style=social" alt="followers"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Final-year Computer Science student at ITER College, Bhubaneswar  
-- 💡 Passionate about Android app development, backend APIs, and problem-solving  
-- 🚀 Exploring Salesforce, AI/ML, and Python data analysis for career growth  
-- 📈 Actively preparing for top tech interviews and internships  
+
+Android & Backend Developer passionate about building scalable apps, developer tools, and AI-powered solutions.
+
+- 🎓 Final-year CSE student at ITER College, Bhubaneswar
+- 📱 Building Android apps using Kotlin & Jetpack Compose
+- ⚙️ Exploring Backend Engineering, AI/ML & System Design
+- 🧠 Regularly solving DSA problems in Java
+- 🚀 Preparing for top tech internships & product-based companies
+
+> I enjoy building products that are useful, scalable, and simple to use.
 
 ---
 
-## 🚀 Skills & Tech Stack
-![Java](https://img.shields.io/badge/Code-Java-orange?logo=java)
-![Kotlin](https://img.shields.io/badge/Code-Kotlin-blueviolet?logo=kotlin)
-![Android](https://img.shields.io/badge/Framework-Android-green?logo=android)
-![Firebase](https://img.shields.io/badge/Tools-Firebase-yellow?logo=firebase)
-![Spring Boot](https://img.shields.io/badge/Backend-SpringBoot-brightgreen?logo=springboot)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-lightgrey?logo=node.js)
-![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Data-Pandas-darkblue?logo=pandas)
-![NumPy](https://img.shields.io/badge/Data-NumPy-lightblue?logo=numpy)
+## 🚧 Currently Working On
+
+- 🤖 AI-powered productivity & developer tools
+- 📱 Modern Android app architecture (MVVM + Clean Architecture)
+- 🌐 Scalable backend systems using Spring Boot
+- 📊 Python for AI/ML & data analysis
+- 💼 Placement preparation for 2026 batch
 
 ---
 
-## 📂 Featured Projects
-### 🌐 CultureConnect
-A travel companion app built with **Kotlin + Jetpack Compose**.  
-[🔗 Repo](https://github.com/raj-Dcoder/CultureConnect) | ![Kotlin](https://img.shields.io/badge/Kotlin-Android-blue)
+## 🛠 Tech Stack
 
-### 📱 AniTrack
-Anime tracking app with **Firebase integration**.  
-[🔗 Repo](https://github.com/raj-Dcoder/AniTrack) | ![Firebase](https://img.shields.io/badge/Firebase-Backend-yellow)
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 📦 MaterialBox
-Reusable UI components for Android apps.  
-[🔗 Repo](https://github.com/raj-Dcoder/MaterialBox) | ![Android](https://img.shields.io/badge/UI-Android-green)
+### Mobile & Backend
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🧩 DSA Practice
-Java solutions for Data Structures & Algorithms problems.  
-[🔗 Repo](https://github.com/raj-Dcoder/DSA) | ![Java](https://img.shields.io/badge/DSA-Java-orange)
+### Tools & Databases
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
+
+# 🚀 Featured Projects
+
+## 🌐 CultureConnect
+Travel companion Android app built using **Kotlin + Jetpack Compose** with modern UI and scalable architecture.
+
+🔗 Repo:  
+https://github.com/raj-Dcoder/CultureConnect
+
 ---
-| GitHub Stats | Streak Stats |
-|--------------|--------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=raj-Dcoder&show_icons=true&theme=tokyonight&hide_border=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=raj-Dcoder&theme=tokyonight&hide_border=true) |
 
-| Top Languages | Trophies |
-|---------------|----------|
-| ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-Dcoder&layout=compact&theme=tokyonight&hide_border=true) | ![Trophies](https://github-profile-trophy.vercel.app/?username=raj-Dcoder&theme=tokyonight&no-frame=true&margin-w=15) |
+## 📱 AniTrack
+Anime tracking application with Firebase Authentication, realtime sync, and clean Android UI.
 
+🔗 Repo:  
+https://github.com/raj-Dcoder/AniTrack
 
+---
 
-## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/rajveer-singh-rana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-lightgrey?logo=google-chrome)](https://rajveer.dev)  
+## 📦 MaterialBox
+Reusable Android UI component library focused on clean design and developer productivity.
+
+🔗 Repo:  
+https://github.com/raj-Dcoder/MaterialBox
+
+---
+
+## 🧩 DSA Practice
+Collection of Java-based Data Structures & Algorithms solutions with optimized approaches and explanations.
+
+🔗 Repo:  
+https://github.com/raj-Dcoder/DSA
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raj-Dcoder&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raj-Dcoder&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-Dcoder&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raj-Dcoder&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+---
+
+# 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+# 📌 Latest Projects
+
+<!--START_SECTION:repo-->
+<!--END_SECTION:repo-->
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raj-Dcoder/raj-Dcoder/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/rajveer-singh-rana" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://github.com/raj-Dcoder" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://rajveer.dev" target="blank">
+<img align="center" src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building. Learning. Improving. 🚀</i>
+</p>
