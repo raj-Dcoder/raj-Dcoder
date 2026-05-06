@@ -116,22 +116,38 @@ https://github.com/raj-Dcoder/DSA
 
 # 🔥 Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raj-Dcoder&theme=tokyo-night&hide_border=true"/>
+</p>
 ---
+# 📌 Featured Repositories
 
-# 📌 Latest Projects
+<p align="center">
+  <a href="https://github.com/raj-Dcoder/CultureConnect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raj-Dcoder&repo=CultureConnect&theme=tokyonight&hide_border=true"/>
+  </a>
 
-<!--START_SECTION:repo-->
-<!--END_SECTION:repo-->
+  <a href="https://github.com/raj-Dcoder/AniTrack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raj-Dcoder&repo=AniTrack&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/raj-Dcoder/MaterialBox">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raj-Dcoder&repo=MaterialBox&theme=tokyonight&hide_border=true"/>
+  </a>
+
+  <a href="https://github.com/raj-Dcoder/DSA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raj-Dcoder&repo=DSA&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raj-Dcoder/raj-Dcoder/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj-Dcoder&theme=tokyonight"/>
 </p>
 
 ---
